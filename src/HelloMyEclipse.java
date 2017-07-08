@@ -1,3 +1,4 @@
+// 时间：2017.07.09 任务2：GitHub同步
 public class HelloMyEclipse {
 
 	public static void main(String[] arg) {
