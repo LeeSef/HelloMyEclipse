@@ -12,7 +12,7 @@ Hello MyEclipse
 	[branch "master"] 
         remote = origin 
         merge = refs/heads/master 
-  [remote "origin"] 
+    [remote "origin"] 
         url = https://github.com/LeeSef/HelloMyEclipse   
         fetch = +refs/heads/*:refs/remotes/origin/*
   注释：url为GitHub工程地址
