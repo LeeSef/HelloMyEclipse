@@ -15,5 +15,5 @@ Hello MyEclipse
     [remote "origin"] 
         url = https://github.com/LeeSef/HelloMyEclipse   
         fetch = +refs/heads/*:refs/remotes/origin/*
-  注释：url为GitHub工程地址XX
+  注释：url为GitHub工程地址
   
